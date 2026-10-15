@@ -1,0 +1,168 @@
+{
+  "version": "1792071157569",
+  "generatedAt": "2026-10-15T13:32:37.570Z",
+  "baseUrl": "https://X3lyz3.github.io/define-mods/mods/",
+  "totalFiles": 32,
+  "files": [
+    {
+      "name": "AdvancementPlaques-26.3-fabric-1.7.3.jar",
+      "hash": "fe1b6bc1de2ef3c94f3155a47443a74bbe41f562a155c056fd6171850f815382",
+      "size": 196090
+    },
+    {
+      "name": "architectury-fabric-22.0.4.jar",
+      "hash": "99dc6e8950b3665595298328384e5f86b7b6341556dc8183282aea7007e552de",
+      "size": 622449
+    },
+    {
+      "name": "cc-tweaked-26.3-fabric-1.120.3.jar",
+      "hash": "d42459a47f17e9ea1c1478be73749bbd8ba35ae068e16351cc0695a034534149",
+      "size": 3036093
+    },
+    {
+      "name": "cloth-config-fabric-26.3.159.jar",
+      "hash": "1716b9964f90d2b885f9bd3887f8824b71b55c32a4123a5853486e722f7c2e4b",
+      "size": 1135009
+    },
+    {
+      "name": "DistantHorizons-3.3.4-26.3-fabric-neoforge.jar",
+      "hash": "ba3e5c85a765a109219831df99b99ef5cfcdee05b2dfa6796116993bd48d3947",
+      "size": 28476894
+    },
+    {
+      "name": "dreamdisplays-fabric-26.3-1.10.0.jar",
+      "hash": "284cad801864684fa2b7b2ca4ff4fad7046194ba26e902e2a014387c1df0719e",
+      "size": 26462805
+    },
+    {
+      "name": "effectual-fabric-1.4.2-26.3.jar",
+      "hash": "ed6934e5e5a1a11379c4f6a1bac7bc5a9662245eb3c3b63168ff7464f38c7201",
+      "size": 328864
+    },
+    {
+      "name": "entityculling-fabric-1.11.2-mc26.3.jar",
+      "hash": "3ff36c560bc35b5b3ebe09aa4520fae438dfa34c6cd8e5fdf481aac1181fade0",
+      "size": 1508273
+    },
+    {
+      "name": "fabric-api-0.162.0+26.3.jar",
+      "hash": "8626c189b702f466800b1c8ddac6203cf8a1e0bdaee75a5f9a33b18c2baa81b1",
+      "size": 1772377
+    },
+    {
+      "name": "fancymenu_fabric_3.9.13_MC_26.3.jar",
+      "hash": "fb2441e95e7567f5a5c94a2420e78ca3c368baf4a7666fa2b7dd1159295e6606",
+      "size": 26779807
+    },
+    {
+      "name": "ferritecore-9.0.0-fabric.jar",
+      "hash": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22",
+      "size": 72677
+    },
+    {
+      "name": "flan-26.3-1.12.8.b-fabric.jar",
+      "hash": "d73838c52457efc5d3d9e87ef8321b8a0e6534f3a0a95c44246e3f179d25c871",
+      "size": 952253
+    },
+    {
+      "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "hash": "95cc2bd7a943f910a54baf2f65acde301dcfb3d8aeff2c989c04c416d5a4a1cd",
+      "size": 609574
+    },
+    {
+      "name": "Iceberg-26.3-fabric-1.4.3.jar",
+      "hash": "e28f36d8c6f9bfa6282707c57fd11b0719cb0ba7a0d54f469399ac38b1398134",
+      "size": 360399
+    },
+    {
+      "name": "inventorymanagement-fabric-2.0.3+26.3.jar",
+      "hash": "0f108f47c4d454db7653f2970c23e6d3ed4d6a50eaf46323ac263b1a41d1c39c",
+      "size": 972645
+    },
+    {
+      "name": "iris-fabric-1.11.6+mc26.3.jar",
+      "hash": "0fcd6f8858db94ed1f28210005fcff9b9364beaa6eb2a8eccf9449a6f709f14d",
+      "size": 2849091
+    },
+    {
+      "name": "jei-26.3-fabric-31.8.0.48.jar",
+      "hash": "7c6bdb20464d85f8bd8965b49afa97d26c464d0a5850d5633815125d17e91fe3",
+      "size": 2385930
+    },
+    {
+      "name": "JustEnoughResources-Fabric-26.3-1.11.0.46.jar",
+      "hash": "9ad3cd747b085b6d23e5b33f309c2401efcfab1dfa4c65123f7d22ffb0c6bd9b",
+      "size": 266361
+    },
+    {
+      "name": "konkrete_fabric_1.11.1_MC_26.3.jar",
+      "hash": "5c5e4da4088929ab72859db7dfef88ee5f34e72d0d9322e59f33757a089a773e",
+      "size": 1214374
+    },
+    {
+      "name": "lithium-fabric-0.26.1+mc26.3.jar",
+      "hash": "34e5e197c40da372f67500ed496bb2193d9147c12d50f988e04a513205d18015",
+      "size": 915429
+    },
+    {
+      "name": "malilib-fabric-26.3-0.30.2.jar",
+      "hash": "abd59f642abd891586bfec2cd1937771ded925081ebe3870d152ca96356b5119",
+      "size": 2081094
+    },
+    {
+      "name": "melody_fabric_1.0.17_MC_26.3.jar",
+      "hash": "c889a455aad7a6bcdc2fabfc690fcf87659f4ae64b4b9fd7a8705b4bdb313c67",
+      "size": 681316
+    },
+    {
+      "name": "mezz_config-26.3-fabric-0.6.5.jar",
+      "hash": "90661c8958354953520cfb0e1f396cf9c05309024700ef9dc388f245acde4caa",
+      "size": 351877
+    },
+    {
+      "name": "MouseTweaks-fabric-mc26.3-2.31.jar",
+      "hash": "7fa35df568c870c45fd144dc9a54139459ded823615dda32bc09d9025831e655",
+      "size": 74569
+    },
+    {
+      "name": "nofog-fabric-26.3.jar",
+      "hash": "f56007dcf981dc38a8bc3fc88308c42c3882a696ee570f2b0bba01e7597a4a11",
+      "size": 3948
+    },
+    {
+      "name": "sodium-fabric-0.9.2+mc26.3.jar",
+      "hash": "87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a",
+      "size": 1908068
+    },
+    {
+      "name": "spark-1.10.187-fabric.jar",
+      "hash": "3fc00663caa542b1e78333730609b4eb2568326628e3666a3938ad58cbc9acc6",
+      "size": 3838499
+    },
+    {
+      "name": "tlib-fabric-1.5.0-26.3.jar",
+      "hash": "c7ec714ad95e87afc5b80916b988b3f7b9c002e4bb59298752ff384d265434f6",
+      "size": 231814
+    },
+    {
+      "name": "voicechat-fabric-2.6.24+26.3.jar",
+      "hash": "97074fa1d094a22f17d5ac11282176965a45137950b66627d3813618810c3d00",
+      "size": 5612855
+    },
+    {
+      "name": "voicechat-fabric-2.6.24-26.3.jar",
+      "hash": "97074fa1d094a22f17d5ac11282176965a45137950b66627d3813618810c3d00",
+      "size": 5612855
+    },
+    {
+      "name": "xaerominimap-fabric-26.3-26.5.3.jar",
+      "hash": "82e67ef23a68c8560753669d9bee2af4e29c91c7d75c99afd502a4ba0bbe51a0",
+      "size": 2229348
+    },
+    {
+      "name": "xaeroworldmap-fabric-26.3-1.46.4.jar",
+      "hash": "22d8748cf2ee1d92083f1713b9857d8ebf178c79199cd248e44d7bd6076887c8",
+      "size": 1480980
+    }
+  ]
+}
