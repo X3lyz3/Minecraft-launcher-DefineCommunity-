@@ -1,6 +1,6 @@
 {
-  "version": "1792076730011",
-  "generatedAt": "2026-10-15T15:05:30.011Z",
+  "version": "1793356384653",
+  "generatedAt": "2026-10-30T10:33:04.653Z",
   "baseUrl": "https://X3lyz3.github.io/Minecraft-launcher-DefineCommunity-/mods/",
   "totalFiles": 32,
   "files": [
@@ -93,6 +93,11 @@
       "name": "konkrete_fabric_1.11.1_MC_26.3.jar",
       "hash": "5c5e4da4088929ab72859db7dfef88ee5f34e72d0d9322e59f33757a089a773e",
       "size": 1214374
+    },
+    {
+      "name": "lambdynamiclights-4.13.0+26.3.jar",
+      "hash": "b7550288423affed86370acd80d064876d7e256f5489461b7ff7941627552ab2",
+      "size": 1345715
     },
     {
       "name": "lithium-fabric-0.26.1+mc26.3.jar",
